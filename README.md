@@ -1,4 +1,4 @@
-# Adidas-Sales-Database--2020-2021-
+# Adidas-Sales-Database 2020-2021
 This project is part of a 4-week Data Analysis Bootcamp with Nexo Girls. The goal was to go beyond charts and build a dashboard that tells a story with data. Using Excel alone, I analyzed two years' worth of Adidas sales data to understand the key drivers of revenue, profit, and performance across products, regions, and time.
 
 ![Dashboardimage](https://github.com/AlphaRaissey/Adidas-Sales-Database--2020-2021-/blob/5a46d25eef9b1d70701d1f45239a6ccfe7348966/Dashboard.png)
@@ -28,8 +28,8 @@ To make sense of Adidas’ sales performance, I set out with the following objec
 - Identify top-performing regions and product categories
 - Spot inefficiencies in product performance
 - Build an interactive, user-friendly Excel dashboard
+  
 ## Data Cleaning
-
 Before diving into analysis, I cleaned the raw dataset to ensure accuracy and consistency.
 Key steps included:
 - Removal of duplicates  
@@ -51,7 +51,7 @@ Key visualizations include:
 ## 7. **Top Cities by Total Sales**  (Bar Chart)
 
 ## Dashboard Overview
-The Adidas Sales Dashboard (2020–2021) provides a comprehensive view of the company’s sales performance across multiple dimensions including products, regions, retailers, and time periods. I added interactive Slicers for Product Category, Store Type, Region, and Month. This allows stakeholders to instantly filter the data and focus on specific areas of interest without interacting directly with the raw dataset. The result is a dynamic, user-friendly dashboard built entirely in Excel — designed for clarity, speed, and business decision-making.
+The Adidas Sales Dashboard provides a comprehensive view of the company’s sales performance across multiple dimensions including products, regions, retailers, and time periods. I added interactive Slicers for Product Category, Store Type, Region, and Month. This allows stakeholders to instantly filter the data and focus on specific areas of interest without interacting directly with the raw dataset. The result is a dynamic, user-friendly dashboard built entirely in Excel, designed for clarity, speed, and business decision-making.
 
 ## Tools Used
  Microsoft Excel ( Data cleaning, data summarization, analysis dynamic visualizations)  
