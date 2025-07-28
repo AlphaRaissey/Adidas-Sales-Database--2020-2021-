@@ -42,13 +42,13 @@ These steps were crucial to prepare the dataset for smooth pivoting, accurate fi
 The dashboard uses a consistent design theme with clean layouts and shades of gray to align with Adidas' brand aesthetic. Visuals were chosen to make insights immediately clear and easy to explore.
 Key visualizations include: 
 
-## 1. **Total Sales by Product Category**  (Bar Chart)
-## 2. **Monthly Sales Trend**  (Line Chart)
-## 3. **Sales by Sales Method**  (Pie Chart)
-## 4. **Sales by Region**  (Column Chart)
-## 5. **Sales by Retailer**  (Bar Chart)
-## 6. **Average Operating Margin by Product**  (Bar Chart)
-## 7. **Top Cities by Total Sales**  (Bar Chart)
+   1. **Total Sales by Product Category**  (Bar Chart)
+   2. **Monthly Sales Trend**  (Line Chart)
+   3. **Sales by Sales Method**  (Pie Chart)
+   4. **Sales by Region**  (Column Chart)
+   5. **Sales by Retailer**  (Bar Chart)
+   6. **Average Operating Margin by Product**  (Bar Chart)
+   7. **Top Cities by Total Sales**  (Bar Chart)
 
 ## Dashboard Overview
 The Adidas Sales Dashboard provides a comprehensive view of the company’s sales performance across multiple dimensions including products, regions, retailers, and time periods. I added interactive Slicers for Product Category, Store Type, Region, and Month. This allows stakeholders to instantly filter the data and focus on specific areas of interest without interacting directly with the raw dataset. The result is a dynamic, user-friendly dashboard built entirely in Excel, designed for clarity, speed, and business decision-making.
