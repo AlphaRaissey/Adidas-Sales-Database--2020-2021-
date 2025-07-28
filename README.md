@@ -57,17 +57,15 @@ The Adidas Sales Dashboard (2020–2021) provides a comprehensive view of the co
  Microsoft Excel ( Data cleaning, data summarization, analysis dynamic visualizations)  
  
 ## Files Included
-![Adidas Sales Data]()
+![Adidas Sales Data](https://github.com/AlphaRaissey/Adidas-Sales-Database--2020-2021-/blob/b9df401530c46416d94649f1431f94a985060474/Adidas%20Sales%20Data.xlsx)
 
 ## Key Insights
-
 - Certain segments significantly outperformed others in both revenue and profit margin, indicating strong consumer demand and effective pricing in those areas.  
 - One sales channel continues to outperform others, but all channels contribute meaningfully to total revenue. There's potential to optimize underutilized channels further.  
 - A few distribution partners are responsible for a major share of performance, while others aren’t meeting expectations. This could point to gaps in availability, visibility, or partner alignment.  
 - Sales trends show clear cyclical behavior, with distinct high and low points during the year. This seasonal pattern can guide future inventory planning, promotional timing, and forecasting.
 
 ## What I Learned
-
 - How to turn a raw dataset into a clear, actionable dashboard using only Excel  
 - The importance of clean data for accurate analysis and smooth dashboard performance  
 - How to use Pivot Tables, Charts, and Slicers together to create an interactive user experience  
@@ -75,6 +73,7 @@ The Adidas Sales Dashboard (2020–2021) provides a comprehensive view of the co
 - How to analyze business performance across multiple dimensions: time, product, region, and channel  
 - Most importantly, how to extract insights that drive smarter decisions — not just pretty visuals
 
-
+## Technical Report
+![Comprehensive Report]()
   
 
