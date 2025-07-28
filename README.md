@@ -71,7 +71,7 @@ The Adidas Sales Dashboard provides a comprehensive view of the company’s sale
 - How to use Pivot Tables, Charts, and Slicers together to create an interactive user experience  
 - How design choices (color schemes, layout, filters) impact the clarity and usability of a dashboard  
 - How to analyze business performance across multiple dimensions: time, product, region, and channel  
-- Most importantly, how to extract insights that drive smarter decisions — not just pretty visuals
+- Most importantly, how to extract insights that drive smarter decisions
 
 ## Technical Report
 ![Full Report](https://medium.com/@AlphaRaissey/data-speaks-heres-what-adidas-sales-whispered-to-me-faca1c6d6c78)
