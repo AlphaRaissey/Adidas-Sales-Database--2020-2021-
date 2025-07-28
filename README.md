@@ -74,6 +74,9 @@ The Adidas Sales Dashboard (2020–2021) provides a comprehensive view of the co
 - Most importantly, how to extract insights that drive smarter decisions — not just pretty visuals
 
 ## Technical Report
-![Comprehensive Report]()
+![Full Report](https://medium.com/@AlphaRaissey/data-speaks-heres-what-adidas-sales-whispered-to-me-faca1c6d6c78)
+
+## Contact Me
+![LinkedLn](https://www.linkedin.com/in/adewolepraise/)
   
 
